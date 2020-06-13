@@ -23,4 +23,6 @@ Web application to input final score or student raport. It consists of data mana
 
 ## Preview
 
-![ScreenShot](https://drive.google.com/file/d/1cuf7ClOsYc_WosqP2SW9eF2lpp5szgGq/view?usp=sharing)
+<div align="center">
+    <img src="public/images/1-login.png" width="400px"</img> 
+</div>
