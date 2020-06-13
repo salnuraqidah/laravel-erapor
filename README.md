@@ -1,7 +1,8 @@
-
-<a href="http://erapor.techmuda4.com/login">
-    <img src="public/images/logos.png" width="400px" alt="login"</img>
+<div align="center">
+<a href="http://erapor.techmuda4.com/login" target="_blank">
+    <img src="public/images/logos.png" width="200px" alt="login"</img>
 </a>
+</div>
 
 ## About E-Rapor
 
@@ -30,8 +31,4 @@ Web application to input final score or student raport. It consists of data mana
     <img src="public/images/5 - subject management.png" width="400px" alt="subject management"</img> 
     <img src="public/images/6 - input student score.png" width="400px" alt="input student score"</img> 
     <img src="public/images/7 - eksport pdf.png" width="400px" alt="eksport pdf"</img> 
-    
-    
-    
-    
 </div>
