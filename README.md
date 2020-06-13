@@ -1,7 +1,7 @@
 
-<a href="http://erapor.techmuda4.com/login"><p align="center">
+<a href="http://erapor.techmuda4.com/login">
     <img src="public/images/logos.png" width="400px" alt="login"</img>
-</p></a>
+</a>
 
 ## About E-Rapor
 
