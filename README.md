@@ -6,7 +6,7 @@
 
 ## About E-Rapor
 
-Web application to input final score or student raport. It consists of data management from students, teachers, subjects, and students score.It was developed using bootstrap framework, mySql, dan laravel.This application has several features:
+Web application to input final score or student raport. It consists of data management from students, teachers, subjects, and students score.It was developed using bootstrap framework, mySql, dan laravel. This application has several features:
 
 - User Authentication.
 - User Authorization.
@@ -23,4 +23,4 @@ Web application to input final score or student raport. It consists of data mana
 
 ## Preview
 
-<img src="https://drive.google.com/file/d/1cuf7ClOsYc_WosqP2SW9eF2lpp5szgGq/view?usp=sharing"/> 
+![ScreenShot](https://drive.google.com/file/d/1cuf7ClOsYc_WosqP2SW9eF2lpp5szgGq/view?usp=sharing)
