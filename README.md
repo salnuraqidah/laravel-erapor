@@ -18,7 +18,7 @@
 
 ## Link
 
-- **[E-rapor Application](http://techmuda3.com/salamah/eraporlogin/)**
+- **[E-rapor Application](http://techmuda3.com/salamah/erapor/login/)**
 - **[Template](https://colorlib.com/polygon/gentelella/index.html)**
 
 ## Preview
