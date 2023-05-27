@@ -32,3 +32,6 @@
     <img src="public/images/6 - input student score.png" width="400px" alt="input student score"</img> 
     <img src="public/images/7 - eksport pdf.png" width="400px" alt="eksport pdf"</img> 
 </div>
+
+## Link database
+- **[Klik](https://drive.google.com/file/d/1iyB7bFx_11Updl6hvEkxCyHJixkGQjr3/view?usp=sharing)** 
